@@ -13,6 +13,7 @@ const DashboardLayout = ({children}) => {
                     <Link className='px-4 py-2 bg-gray-700 text-white rounded-2xl mx-4 text-center' href="/dashboard/add-story">Add Story</Link>
                     <Link className='px-4 py-2 bg-gray-700 text-white rounded-2xl mx-4 text-center' href="/dashboard/my-profile">My Profile</Link>
                     <Link className='px-4 py-2 bg-gray-700 text-white rounded-2xl mx-4 text-center' href="/dashboard/settings">Settings</Link>
+                    <Link className='px-4 py-2 bg-gray-700 text-white rounded-2xl mx-4 text-center' href="/">Home</Link>
                 </div>
             </div>
             <div className='col-span-9'>
